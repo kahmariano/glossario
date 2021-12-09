@@ -1,0 +1,27 @@
+* {
+  margin: 2;
+  padding: 0;
+  box-sizing: border-box;
+  line-height: 2rem;
+}
+h1 {
+  text-align: center;
+}
+body {
+  background: rgb(21, 28, 37);
+  color: black;
+  font-size: 24px;
+  font-family: 'Times New Roman', Times, serif;
+  padding-top: 1rem;
+}
+div {
+  background-color: rgb(79, 119, 124);
+  margin-right: auto;
+  margin-left: auto;
+  width: 70%;
+  padding-left: 1rem;
+}
+footer {
+  text-align: center;
+  font-family: fantasy;
+}
